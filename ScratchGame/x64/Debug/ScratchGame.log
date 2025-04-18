@@ -1,0 +1,31 @@
+﻿  Debugger.cpp
+  GameHUD.cpp
+  IndexBuffer.cpp
+A:\OpenGL\ScratchGame\ScratchGame\Source\IndexBuffer.cpp(9,42): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+  BaseScene.cpp
+  SimpleRenderer.cpp
+A:\OpenGL\ScratchGame\ScratchGame\Source\Scenes\SimpleRenderer.cpp(27,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\memory(3465,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+A:\OpenGL\ScratchGame\ScratchGame\Source\Scenes\SimpleRenderer.cpp(8,16): message : see reference to function template instantiation 'std::unique_ptr<VertexBuffer,std::default_delete<VertexBuffer>> std::make_unique<VertexBuffer,unsigned __int64,float(&)[12],int,0>(unsigned __int64 &&,float (&)[12],int &&)' being compiled
+  ScratchGame.cpp
+  Shader.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+A:\OpenGL\ScratchGame\ScratchGame\Source\VertexBuffer.cpp(9,34): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+  VertexLayout.cpp
+A:\OpenGL\ScratchGame\ScratchGame\Source\VertexLayout.cpp(36,84): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  Generating Code...
+  ScratchGame.vcxproj -> A:\OpenGL\ScratchGame\x64\Debug\ScratchGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
